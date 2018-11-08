@@ -2,7 +2,7 @@
 ### This repository contains the project I developed in collaboration with an International Team of PhD Students, Post-docs and Researchers at the SSI (SLAC Summer Institute).
 
 **The task** <br/>
-Electrons in a circular accelerator will emit a substantial amount of electromagnetic radiation. Consider an extension of electrodynamics where a new particle, the dark photon, exists with a mass of 10 MeV which couples to charged particles the same way as a photon does but with a strength reduced by $\varepsilon$ $[e]$ = 10<sup>-3</sup> and estimate the power loss due to the emission of dark photons in a circular accelerator, such as the proposed *FCC-ee* or *CEPC*, with a center of mass energy of 250 GeV.
+Electrons in a circular accelerator will emit a substantial amount of electromagnetic radiation. Consider an extension of electrodynamics where a new particle, the dark photon, exists with a mass of 10 MeV which couples to charged particles the same way as a photon does but with a strength reduced by *k* = 10<sup>-3</sup> and estimate the power loss due to the emission of dark photons in a circular accelerator, such as the proposed *FCC-ee* or *CEPC*, with a center of mass energy of 250 GeV.
 
 **Our conclusion** <br/>
 The Synchrotron radiation emitted by a Dark Photon can not be detected at proposed upcoming *e<sup>+</sup>* *e<sup>-</sup>* colliders like *CEPC* and *FCC-ee*. <br/>
